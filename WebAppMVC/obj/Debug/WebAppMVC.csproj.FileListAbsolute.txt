@@ -1,0 +1,5 @@
+D:\Projects\WebAppMVC\WebAppMVC\bin\WebAppMVC.dll
+D:\Projects\WebAppMVC\WebAppMVC\bin\WebAppMVC.pdb
+D:\Projects\WebAppMVC\WebAppMVC\obj\Debug\WebAppMVC.dll
+D:\Projects\WebAppMVC\WebAppMVC\obj\Debug\WebAppMVC.pdb
+D:\Projects\WebAppMVC\WebAppMVC\obj\Debug\WebAppMVC.csprojResolveAssemblyReference.cache
